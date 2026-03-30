@@ -1,0 +1,11 @@
+# Python 编译缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE 和工具缓存
+.vscode/
+
+# 本地生成的私人数据或配置（视情况而定）
+git_push.bat
+git_pull.bat
