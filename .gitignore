@@ -5,6 +5,7 @@ __pycache__/
 
 # IDE 和工具缓存
 .vscode/
+homework/
 
 # 本地生成的私人数据或配置（视情况而定）
 git_push.bat
