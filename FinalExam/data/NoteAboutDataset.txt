@@ -1,0 +1,1 @@
+Download the MIT_Indoor67 dataset and place the Images and Annotations folders here.
